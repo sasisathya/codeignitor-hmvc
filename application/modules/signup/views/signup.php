@@ -18,17 +18,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		color: #4F5155;
 	}
 
-
-
-
-
-/*dfd
-
-
-sdfsdfsd
-dsdfsdsf*/
-
-
 	a {
 		color: #003399;
 		background-color: transparent;
