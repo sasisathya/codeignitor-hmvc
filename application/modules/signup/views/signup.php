@@ -11,7 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	::selection { background-color: #E13300; color: white; }
 	::-moz-selection { background-color: #E13300; color: white; }
 
-	/*Css for HMVC structure*/
+	/*Css for HMVC structure Uploaded in to gitlab*/
 
 	body {
 		background-color: #fff;
